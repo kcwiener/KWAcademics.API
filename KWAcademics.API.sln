@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KWAcademics.Api", "KWAcademics.Api\KWAcademics.Api.csproj", "{7FBC6953-F26B-466D-BA50-C8A7432119C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		TestToSpeechConverter.API|Any CPU = TestToSpeechConverter.API|Any CPU
+		TestToSpeechConverter.API|x64 = TestToSpeechConverter.API|x64
+		TestToSpeechConverter.API|x86 = TestToSpeechConverter.API|x86
+		TextToSpeechConvert.Client|Any CPU = TextToSpeechConvert.Client|Any CPU
+		TextToSpeechConvert.Client|x64 = TextToSpeechConvert.Client|x64
+		TextToSpeechConvert.Client|x86 = TextToSpeechConvert.Client|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.Debug|x64.Build.0 = Debug|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.Debug|x86.Build.0 = Debug|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.Release|x64.ActiveCfg = Release|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.Release|x64.Build.0 = Release|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.Release|x86.ActiveCfg = Release|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.Release|x86.Build.0 = Release|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.TestToSpeechConverter.API|Any CPU.ActiveCfg = TestToSpeechConverter.API|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.TestToSpeechConverter.API|Any CPU.Build.0 = TestToSpeechConverter.API|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.TestToSpeechConverter.API|x64.ActiveCfg = TestToSpeechConverter.API|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.TestToSpeechConverter.API|x64.Build.0 = TestToSpeechConverter.API|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.TestToSpeechConverter.API|x86.ActiveCfg = TestToSpeechConverter.API|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.TestToSpeechConverter.API|x86.Build.0 = TestToSpeechConverter.API|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.TextToSpeechConvert.Client|Any CPU.ActiveCfg = TextToSpeechConvert.Client|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.TextToSpeechConvert.Client|x64.ActiveCfg = TextToSpeechConvert.Client|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.TextToSpeechConvert.Client|x64.Build.0 = TextToSpeechConvert.Client|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.TextToSpeechConvert.Client|x86.ActiveCfg = TextToSpeechConvert.Client|Any CPU
+		{7FBC6953-F26B-466D-BA50-C8A7432119C0}.TextToSpeechConvert.Client|x86.Build.0 = TextToSpeechConvert.Client|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF43FD0-D363-41C5-9CD0-4FB69591DEF7}
+	EndGlobalSection
+EndGlobal
